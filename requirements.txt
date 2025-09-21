@@ -1,0 +1,7 @@
+streamlit>=1.36
+openai>=1.42.0
+python-dotenv>=1.0.1
+pypdf>=4.3            # read PDFs
+sentence-transformers>=2.7.0  # multilingual embeddings (BM/EN)
+numpy>=1.26
+scikit-learn>=1.5     # cosine similarity
